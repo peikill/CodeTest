@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Code Test</string>
+    <string name="common_itunes_music">iTunes Music</string>
+    <string name="common_sorting_option">Sorting option</string>
+    <string name="common_off">Off</string>
+    <string name="common_search">Search</string>
+    <string name="common_price_sort">Sort by price</string>
+    <string name="common_price">Price:$</string>
+    <string name="common_cancel">Cancel</string>
+    <string name="common_retry">retry</string>
+</resources>
